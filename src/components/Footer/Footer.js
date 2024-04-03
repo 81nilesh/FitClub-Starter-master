@@ -11,8 +11,6 @@ const Footer = () => {
             <div className="footer-container">
                 <hr />
                 <div className='footer'>
-
-
                     <div className="social">
                         <img src={GitHub} alt="" />
                         <img src={Intagram} alt="" />
@@ -22,7 +20,6 @@ const Footer = () => {
                         <img src={Logo} alt="" />
                     </div>
                 </div>
-
                 <div className="blur blur-f"></div>
                 <div className="blur blur-f-2"></div>
             </div>
